@@ -1,0 +1,4 @@
+"count(distinct Users.user_id)",city
+2," Los Angeles"
+2," New York"
+1," Chicago"

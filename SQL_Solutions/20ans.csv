@@ -1,0 +1,11 @@
+full_name,"Count(DISTINCT Registrations.event_id)","count(distinct Feedback.feedback_id)"
+"Alice Johnson",1,0
+"Bob Smith",1,1
+"Charlie Lee",1,1
+"Diana King",1,1
+"Ethan Hunt",1,0
+"Alice Johnson",0,0
+"Bob Smith",0,0
+"Charlie Lee",0,0
+"Diana King",0,0
+"Ethan Hunt",0,0

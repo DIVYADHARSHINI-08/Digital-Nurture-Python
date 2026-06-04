@@ -1,0 +1,4 @@
+full_name,count(Events.event_id),status
+"Alice Johnson",1,upcoming
+"Bob Smith",1,upcoming
+"Charlie Lee",1,completed

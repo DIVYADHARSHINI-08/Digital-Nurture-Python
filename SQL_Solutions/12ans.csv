@@ -1,0 +1,2 @@
+Count(Sessions.session_id),event_id,title
+2,1,"Tech Innovators Meetup"

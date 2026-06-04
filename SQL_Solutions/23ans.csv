@@ -1,0 +1,2 @@
+month(Registrations.registration_date),"count(distinct Registrations.registration_id)"
+6,1

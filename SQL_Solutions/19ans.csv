@@ -1,0 +1,2 @@
+"count(DISTINCT Registrations.registration_id)",AVG(Feedback.rating),title
+2,4.5000,"AI & ML Conference"

@@ -1,0 +1,3 @@
+event_id,COUNT(Sessions.session_id)
+1,2
+3,1

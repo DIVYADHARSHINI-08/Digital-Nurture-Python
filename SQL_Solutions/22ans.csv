@@ -1,0 +1,1 @@
+full_name,"count(distinct Registrations.event_id)"

@@ -1,0 +1,4 @@
+"avg(TIMESTAMPDIFF(MINUTE, start_time, end_time))",event_id
+67.5000,1
+90.0000,2
+120.0000,3
