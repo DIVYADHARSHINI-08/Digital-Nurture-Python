@@ -1,0 +1,20 @@
+{
+    "101": {
+        "emp_id": 101,
+        "name": "Divya",
+        "department": "AI",
+        "salary": 50000
+    },
+    "102": {
+        "emp_id": 102,
+        "name": "Rahul",
+        "department": "HR",
+        "salary": 45000
+    },
+    "103": {
+        "emp_id": 103,
+        "name": "Sneha",
+        "department": "Development",
+        "salary": 60000
+    }
+}
